@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item1"
+        android:title="BUSCAR"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_busador_white"
+        />
+    <item
+        android:id="@+id/item2"
+        android:title="nuevo grupo"
+        android:textColor="@color/white"
+        app:showAsAction="collapseActionView"
+        />
+    <item
+        android:id="@+id/item3"
+        android:title="dispositivos vinculados"
+        app:showAsAction="collapseActionView"
+        />
+    <item
+        android:id="@+id/item4"
+        android:title="mensajes destacados"
+        app:showAsAction="collapseActionView"
+        />
+    <item
+        android:id="@+id/item5"
+        android:title="ajustes "
+        app:showAsAction="collapseActionView"
+        />
+</menu>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/drawable-anydpi/ic_action_miBuscar.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/FBtolbar.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/INStolbar.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/WStolbar.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/activity_facebook.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/activity_instagram.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/activity_main2.xml" value="0.37135416666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/activity_whatsapp.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/facebook_toolbar.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/fbTolbar.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/instagramTolbar.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/instagram_toolbar.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/tolbar4.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/tolbar_fb.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/tolbarfb.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/wasapTolbar.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/layout/whatsap_toolbar.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/menu/main_fb.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/menu/main_ins.xml" value="0.371875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/menu/main_menu.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/mytoolbarr/app/src/main/res/menu/main_ws.xml" value="0.371875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
